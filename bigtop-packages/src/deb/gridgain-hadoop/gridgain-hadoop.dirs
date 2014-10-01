@@ -1,0 +1,5 @@
+/usr/bin
+/var/log/gridgain-hadoop
+/var/run/gridgain-hadoop
+/var/lib/gridgain-hadoop
+/etc/default
